@@ -4,7 +4,7 @@ Costruiamo **software open source** per rendere i dati pubblici italiani accessi
 
 Il catasto italiano è un patrimonio informativo enorme, ma accedervi è ancora complicato, lento e costoso. Noi lo stiamo cambiando — con strumenti FOSS, API aperte e dati liberi.
 
-## 🛠️ I nostri progetti
+## I nostri progetti
 
 | Progetto | Descrizione |
 |----------|-------------|
