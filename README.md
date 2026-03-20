@@ -1,5 +1,7 @@
 # Siamo Zornade
 
+<iframe src="https://github.com/sponsors/zornade/button" title="Sponsor zornade" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 Costruiamo **software open source** per rendere i dati pubblici italiani accessibili a tutti.
 
 Il catasto italiano è un patrimonio informativo enorme, ma accedervi è ancora complicato, lento e costoso. Noi lo stiamo cambiando — con strumenti FOSS, API aperte e dati liberi.
