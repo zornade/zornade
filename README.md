@@ -7,7 +7,7 @@
 
 # Zornade
 
-Provider italiano di dati territoriali: catasto e altri 19 blocchi da oltre 15 fonti ufficiali, per 85 milioni di particelle, via API e mappe pronte all'uso.
+Zornade è un provider italiano di dati territoriali. Raccoglie il catasto e altri diciannove blocchi di dati da oltre quindici fonti ufficiali, li compone per 85 milioni di particelle e li espone in un'unica API e in mappe pronte all'uso, per professionisti, software house e sviluppatori. Ogni valore è tracciato fino alla fonte primaria e aggiornato alla data di riferimento.
 
 ## Cosa costruisco
 
