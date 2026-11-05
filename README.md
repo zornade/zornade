@@ -14,13 +14,14 @@ Zornade è un provider italiano di dati territoriali. Raccoglie il catasto e alt
 - [visura-api](https://github.com/zornade/visura-api): API e client per i dati catastali italiani (AGPL-3.0)
 - [zornade-studio](https://github.com/zornade/zornade-studio): editor per mappe e dati territoriali (AGPL-3.0)
 - [zornade-mcp](https://github.com/zornade/zornade-mcp): server MCP per interrogare il catasto da un assistente (MIT)
-- [plugin QGIS](https://github.com/zornade/qgis-plugin): plugin ufficiale Zornade per QGIS (GPL-2.0-or-later)
+- [plugin QGIS](https://github.com/zornade/zornade-parcel-downloader): plugin Zornade per QGIS, pubblicato sul repository ufficiale dei plugin (GPL-2.0-or-later)
 
 ## Dove
 
 - Dati, API e mappe: [zornade.com](https://zornade.com)
 - Documentazione API: [api.zornade.com](https://api.zornade.com/api/v2/openapi.json)
 - Mappe e grafici: [studio.zornade.com](https://studio.zornade.com)
+- Dataset aperti scaricabili: [zornade.com/data-downloads](https://zornade.com/data-downloads)
 
 Tutti i dati che servo sono tracciati fino alla fonte primaria, con la licenza
 dichiarata blocco per blocco.
